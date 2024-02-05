@@ -23,4 +23,5 @@ This project groups a series of repositories that combined create an e-commerce 
 - Run `docker-compose up`
 - Run in anoter terminal tab the following command: `docker compose run catalog_api go run internal/cmd/populate/populate.go` to create some products
 
-![image](https://github.com/almirpask/microservice_store/assets/18711527/6c665e5b-a1aa-4e35-bc96-ddfc18b44e18)
+![image](https://github.com/almirpask/microservice_store/assets/18711527/8e5f65ed-99ac-4b87-866e-49802108dc59)
+
