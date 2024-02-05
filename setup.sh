@@ -21,4 +21,5 @@ find . -type f -name entrypoint.sh -exec chmod +x {} \;
 
 echo "Permissions given!"
 
+echo "All done! Now try to run `docker compose up` command."
 
